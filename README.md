@@ -78,7 +78,7 @@ Skills: HTML / CSS / JAVASCRIPT / REACT /  BOOTSTRAP
   <br/>
 </a>
 
-![Rayhan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rayhan7786&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Rayhan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rayhan7786&custom_title=Rayhan,s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
