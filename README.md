@@ -20,7 +20,7 @@ Skills: HTML / CSS / JAVASCRIPT / REACT /  BOOTSTRAP
 
 
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap,Pythone**
 
 -
 
@@ -57,7 +57,7 @@ Skills: HTML / CSS / JAVASCRIPT / REACT /  BOOTSTRAP
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=rayhan7786&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rayhan7786/Java-Project)
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=rayhan7786&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]()
 
 
 <br/>
